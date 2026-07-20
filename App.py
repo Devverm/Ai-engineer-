@@ -13,3 +13,7 @@ for i in range(1, 10):
     print(i)
 
 print("DEEEEEEEEEEEEEPTHI")
+
+a = 1
+b = 2
+print(a + b)
